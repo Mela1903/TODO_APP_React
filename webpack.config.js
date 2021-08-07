@@ -11,6 +11,7 @@ module.exports = {
     publicPath: "/build/",
     compress: true,
     port: 3001,
+    open: true,
     historyApiFallback: true
   },
   module: {
